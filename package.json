@@ -1,0 +1,23 @@
+{
+  "name": "single-knockout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saksha007/single-knockout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saksha007/single-knockout/issues"
+  },
+  "homepage": "https://github.com/Saksha007/single-knockout#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
